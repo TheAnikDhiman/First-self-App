@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="welcome_to_anik_s_knowledge_hub">Welcome To Anik\'s Knowledge Hub</string>
+    <string name="let_s_go">LET\'S GO</string>
+    <string name="call">CALL</string>
+    <string name="android_development">Android Development</string>
+    <string name="web_development">Web Development</string>
+    <string name="roadmaps_for">ROADMAPS FOR:</string>
+    <string name="roadmaps_for1">ROADMAPS FOR :</string>
+    <string name="c">C++</string>
+    <string name="java">Java</string>
+    <string name="ml">ML</string>
+    <string name="game_development">Game Development</string>
+    <string name="mlops">MLOps</string>
+</resources>
